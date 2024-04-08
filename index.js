@@ -1,5 +1,5 @@
 $(".about").hide();
 
-$(".hideDiv").click(function(){
-  $(".about").slideToggle(0800);
-  });
+$(".hideDiv").click(function () {
+  $(".about").slideToggle(800);
+});
