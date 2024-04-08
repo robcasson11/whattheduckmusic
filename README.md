@@ -6,4 +6,4 @@ Built using HTML, CSS and bootstrap. A very small amount of Javascript has been 
 
 
 View the site here...
-[https://whattheduckmusic.co.uk/]
+https://whattheduckmusic.co.uk/
